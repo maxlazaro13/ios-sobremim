@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(230, 230, 253);
+}
+
+nav{
+    background-color:white;
+    padding: 10px;
+}
+
+nav a{
+    color: inherit;
+    text-decoration: none;
+}
+nav a:hover{
+    color: blue;
+    font-weight: bold;
+}
+
+
+img{
+    width: 300px;
+}
